@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyApi", "src\MyApi\MyApi.csproj", "{4D70F5CD-6FF1-4CE6-A5C9-D71C5767E8B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReactApp", "src\ReactApp\ReactApp.csproj", "{8A4EB030-4B2E-4A9A-8EAE-6AFE1568C43E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "src\WebApplication1\WebApplication1.csproj", "{111EF25C-7B7C-414B-892E-0AEB724B9EF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D70F5CD-6FF1-4CE6-A5C9-D71C5767E8B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D70F5CD-6FF1-4CE6-A5C9-D71C5767E8B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D70F5CD-6FF1-4CE6-A5C9-D71C5767E8B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D70F5CD-6FF1-4CE6-A5C9-D71C5767E8B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A4EB030-4B2E-4A9A-8EAE-6AFE1568C43E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A4EB030-4B2E-4A9A-8EAE-6AFE1568C43E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A4EB030-4B2E-4A9A-8EAE-6AFE1568C43E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A4EB030-4B2E-4A9A-8EAE-6AFE1568C43E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{111EF25C-7B7C-414B-892E-0AEB724B9EF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{111EF25C-7B7C-414B-892E-0AEB724B9EF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{111EF25C-7B7C-414B-892E-0AEB724B9EF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{111EF25C-7B7C-414B-892E-0AEB724B9EF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
